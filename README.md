@@ -1,6 +1,8 @@
 # About this project
 
 This project is build with the intention of creating a simple app with patterns for coding and making git commit.
+Code patterns using ESLint + Prettier.
+Commit messages patterns using Husky + commitlint + commitizen.
 
 # Getting Started with Create React App
 
