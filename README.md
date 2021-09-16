@@ -1,3 +1,7 @@
+# About this project
+
+This project is build with the intention of creating a simple app with patterns for coding and making git commit.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
